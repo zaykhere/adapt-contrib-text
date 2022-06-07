@@ -25,9 +25,10 @@
       "type": "string",
       "required": false,
       "default": "",
+      "title": "Instrucción",
       "inputType": "Text",
       "validators": [],
-      "help": "This is the instruction text",
+      "help": "Este es el texto de instrucciones.",
       "translatable": true
     }
   }
