@@ -7,7 +7,7 @@
   "component" : "text",
   "targetAttribute": "_text",
   "displayName" : "Text",
-  "description": "A simple core contributed text component",
+  "description": "Un componente de texto aportado por el núcleo simple",
   "main": "/js/adapt-contrib-text.js",
   "keywords": [
     "adapt-plugin",
